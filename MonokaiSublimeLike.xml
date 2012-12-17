@@ -6,12 +6,15 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="a6e22e" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="FILESTATUS_MODIFIED" value="32a0" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
-    <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="LINE_NUMBERS_COLOR" value="75715e" />
+    <option name="MODIFIED_LINES_COLOR" value="e6db74" />
     <option name="SELECTION_BACKGROUND" value="3e3d32" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="WHITESPACES" value="3b3a32" />
@@ -571,7 +574,7 @@
       <value>
         <option name="FOREGROUND" value="ffb3b3" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -621,7 +624,7 @@
       <value>
         <option name="FOREGROUND" value="ffb3b3" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -651,7 +654,7 @@
       <value>
         <option name="FOREGROUND" value="ffb3b3" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1221,7 +1224,7 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1701,7 +1704,7 @@
       <value>
         <option name="FOREGROUND" value="ffa4ff" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1779,7 +1782,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="272822" />
         <option name="BACKGROUND" value="66d6e1" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -3301,7 +3304,7 @@
       <value>
         <option name="FOREGROUND" value="ff6767" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
