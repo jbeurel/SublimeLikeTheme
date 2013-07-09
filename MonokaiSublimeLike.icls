@@ -1571,6 +1571,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="272822" />
+        <option name="BACKGROUND" value="e6db74" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="ff00" />
       </value>
