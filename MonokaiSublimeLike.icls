@@ -912,6 +912,11 @@
     <option name="PHP_BRACKETS">
       <value />
     </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="66d6e1" />
+      </value>
+    </option>
     <option name="PHP_COMMA">
       <value />
     </option>
@@ -945,6 +950,11 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -957,6 +967,11 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value />
+    </option>
+    <option name="PHP_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="66d6e1" />
+      </value>
     </option>
     <option name="PHP_KEYWORD">
       <value>
