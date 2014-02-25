@@ -446,8 +446,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="80" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -457,9 +456,7 @@
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ff" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value />
@@ -474,8 +471,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
