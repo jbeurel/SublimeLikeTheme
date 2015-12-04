@@ -1,5 +1,5 @@
-PhpStormScheme
-==============
+MonokaiSublimeLikeTheme
+=======================
 
 MonokaiSublimeLike.icls : Sublime Like Scheme for PhpStorm5
 
@@ -8,10 +8,10 @@ Installation
 
 Commands:
 
-    cd ~/.WebIde60/config/colors
+    cd ~/.Web*/config/colors
     git clone https://github.com/jbeurel/PhpStormScheme.git .
    
-PHPStorm Settings:
+PHPStorm/WebStorm Settings:
 
     IDE Settings > Editor > Colors & Fonts
     Scheme name: MonokaiSublimeLike
