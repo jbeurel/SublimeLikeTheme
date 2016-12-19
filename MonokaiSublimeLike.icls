@@ -1,5 +1,4 @@
 <scheme name="MonokaiSublimeLike" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -282,7 +281,6 @@
       <value>
         <option name="FOREGROUND" value="f92672" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f92672" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -305,7 +303,6 @@
     <option name="CSS.STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -13446,7 +13443,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="800080" />
+        <option name="FOREGROUND" value="a6e22e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -13539,7 +13536,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
